@@ -27,3 +27,24 @@ Computer Science student exploring development and learning to build useful, cle
 <div align="center">
 Building my journey, one project at a time.
 </div>
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazzyX31&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazzyX31&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect
+
+- GitHub: [@hazzyX31](https://github.com/hazzyX31)
