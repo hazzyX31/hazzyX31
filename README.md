@@ -1,28 +1,29 @@
 <div align="center">
 
-<img src="banner.png.jpg" width="100%" />
+<img src="./banner.png.jpg" width="100%" />
 
-# HAMZA
+<h1>HAMZA</h1>
+<h3>CS Student | Aspiring Developer</h3>
 
-### CS Student • Aspiring Developer
-
-<img src="astronaut.png.jpg" width="180" />
+<img src="./astronaut.png.jpg" width="200" />
 
 </div>
 
 ---
 
-> Learning, building and improving every day.
+## 👋 Hello, I'm Hamza
+
+Computer Science student exploring development and learning to build useful, clean and well-designed things.
+
+## 🚀 About Me
 
 - 💻 Computer Science Student
-- 🚀 Aspiring Developer
-- 🌐 Exploring Web Development
-- 📚 Building projects & learning new technologies
+- 🌐 Learning Web Development
+- 🛠️ Building personal projects
+- 📚 Improving every day
 
 ---
 
 <div align="center">
-
-*Building my journey, one project at a time.*
-
+Building my journey, one project at a time.
 </div>
